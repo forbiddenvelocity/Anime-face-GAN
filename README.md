@@ -4,7 +4,7 @@ This repository contains code for generating anime faces using Generative Advers
 ## Training Dataset: 
 ![AnimeGANtrained](https://github.com/forbiddenvelocity/Anime-face-GAN/assets/116059615/28875946-51a2-45b7-b7a5-2446d92f6896)
 
-#Generated Data: 
+## Generated Data: 
 ![AnimeGANgenerated](https://github.com/forbiddenvelocity/Anime-face-GAN/assets/116059615/db7949a2-d928-46b2-8bb9-d28275ebd5df)
 
 ## Introduction
