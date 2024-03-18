@@ -1,16 +1,16 @@
-Anime Face Generation using GANs (PyTorch)
+#Anime Face Generation using GANs (PyTorch)
 This repository contains code for generating anime faces using Generative Adversarial Networks (GANs) implemented in PyTorch. The project utilizes deep learning techniques to create synthetic anime face images.
 
-Training Dataset: 
+#Training Dataset: 
 ![AnimeGANtrained](https://github.com/forbiddenvelocity/Anime-face-GAN/assets/116059615/28875946-51a2-45b7-b7a5-2446d92f6896)
 
-Generated Data: 
+#Generated Data: 
 ![AnimeGANgenerated](https://github.com/forbiddenvelocity/Anime-face-GAN/assets/116059615/db7949a2-d928-46b2-8bb9-d28275ebd5df)
 
-Introduction
+#Introduction
 Generative Adversarial Networks have gained significant popularity in the domain of image generation tasks. This project focuses specifically on generating anime faces, a challenging and visually appealing task. By employing GANs, the model learns to generate new anime face images that exhibit realistic features resembling those found in actual anime characters.
 
-Requirements
+#Requirements
 Python 3.x
 PyTorch
 Torchvision
@@ -46,10 +46,7 @@ Credits to the creators and contributors of PyTorch, Wandb, and other libraries 
 Contributing
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Author
-Your Name
-GitHub: Your GitHub Profile
+Mubashir (forbiddenvelocity)
+GitHub: github.com/forbiddenvelocity
 Feel free to reach out with any questions, suggestions, or feedback!
